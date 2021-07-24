@@ -1,14 +1,14 @@
 ## Hi, I'm Matias Rivera 👋
 
- I’m a fullstack web developer currently working as a freelancer.
+ I’m a fullstack web developer.
 
 ## Portfolio
 
-Visit my website to check my last projects i was working on.
+Check my last projects.
 
 Link : https://www.matiasrivera.com
 
-<a href="https://www.matiasrivera.com"><img src="https://i.ibb.co/rkPV0CT/meta.jpg" alt="Portfolio" /></a>
+<a href="https://www.matiasrivera.com"><img src="https://i.ibb.co/qr24407/Matias-Rivera-min.png" alt="Portfolio" /></a>
 
 
 <!--
